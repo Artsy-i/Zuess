@@ -1,169 +1,168 @@
 ```
-╔════════════════════════════════════════════════════════════════════════════╗
-║                                                                            ║
-║                           ⚡ Z E U S S ⚡                                   ║
-║                  AUTONOMOUS B2B INTELLIGENCE ENGINE                        ║
-║                                                                            ║
-║            Enterprise-Grade Research | Grounded Analysis | PDF Ready      ║
-║                                                                            ║
-╚════════════════════════════════════════════════════════════════════════════╝
+███████╗███████╗██╗   ██╗███████╗███████╗
+╚════██║██╔════╝██║   ██║██╔════╝██╔════╝
+     ██║█████╗  ██║   ██║███████╗███████╗
+     ██║██╔══╝  ██║   ██║╚════██║╚════██║
+███████║███████╗╚██████╔╝███████║███████║
+╚══════╝╚══════╝ ╚═════╝ ╚══════╝╚══════╝
+
+                      ╔════════════════════════════════════════════╗
+                      ║            Z E U S S                     ║
+                      ║  AUTONOMOUS B2B INTELLIGENCE ENGINE      ║
+                      ║  RESEARCH OS • QA GATE • PUBLISH FLOW    ║
+                      ╚════════════════════════════════════════════╝
 ```
 
 <div align="center">
-  <br>
-  <img alt="ZEUSS" src="https://img.shields.io/badge/ZEUSS-Intelligence%20Pipeline-blue?style=for-the-badge&logoColor=white" />
-  <img alt="Python" src="https://img.shields.io/badge/Python-3.10%2B-2E8B57?style=for-the-badge" />
+  <img alt="ZEUSS" src="https://img.shields.io/badge/ZEUSS-Research%20OS-0B1026?style=for-the-badge&logoColor=white" />
+  <img alt="Python" src="https://img.shields.io/badge/Python-3.10%2B-1E8E3E?style=for-the-badge" />
+  <img alt="AI" src="https://img.shields.io/badge/AI-Review%20Pipeline-8B5CF6?style=for-the-badge" />
+  <img alt="PDF" src="https://img.shields.io/badge/PDF-Institutional%20Dossier-0EA5E9?style=for-the-badge" />
   <img alt="License" src="https://img.shields.io/badge/License-Proprietary-red?style=for-the-badge" />
-  <img alt="Status" src="https://img.shields.io/badge/Status-Production%20Ready-green?style=for-the-badge" />
   <br><br>
-  <strong>Transform Raw Market Chaos Into Institutional Intelligence</strong>
+  <strong>Enterprise-grade intelligence for market research, strategy, operations, and institutional decision-making.</strong>
   <br>
-  <em>Zero synthetic estimations. 100% citation enforcement. Deterministic state machine.</em>
+  <em>Unfiltered source discipline. Verified claims. Publish-ready output.</em>
 </div>
 
 ---
 
-## 🎯 What is ZEUSS?
+# ZEUSS
 
-**ZEUSS** is a **proprietary autonomous research system** engineered to generate multi-chapter B2B industry intelligence reports with **institutional-grade verification standards**.
+A proprietary research and publishing engine designed to convert a broad market topic into a structured, evidence-backed institutional dossier.
 
-Unlike typical AI-powered analysis tools, ZEUSS enforces:
-
-✅ **Grounded Authority** — Facts extracted only from whitelisted institutional sources (.gov, McKinsey, Bloomberg)  
-✅ **Zero Estimations** — Missing data is flagged as "Data Unavailable" instead of guessed  
-✅ **Adversarial QA** — DeepSeek-R1 fact-checks 100% of claims before approval  
-✅ **Citation Enforcement** — Every numerical claim includes mandatory footnote URLs  
-✅ **Resilient Failover** — Multi-provider waterfall with checkpoint-based resumption  
-✅ **Publication Ready** — Formal institutional PDFs with cover pages, prefaces, and source ledgers  
+ZEUSS brings together grounded fact extraction, high-density synthesis, adversarial QA, and PDF publication into one layered system for B2B intelligence use cases.
 
 ---
 
-## 💎 Premium Features
+## Brand / Logo System
 
-### 🔍 Intelligent Search Layer
-- Live Exa.ai integration for real-time market data
-- Domain whitelisting to eliminate open-web noise
-- Structured fact extraction into verified JSON
+### Signature Mark
 
-### 🧠 Multi-Provider Intelligence Synthesis
-- **Tier A (Search)**: OpenRouter NVIDIA models for fact grounding
-- **Tier B (Synthesis)**: Llama 3.3 / Qwen rotating synthesis
-- **Tier C (Reasoning)**: DeepSeek-R1 for adversarial QA
-- **Automatic failover** with checkpointed resumption on rate limits
-
-### 📊 Institutional Report Compilation
-- **Formal Cover Page** with metadata grid and confidentiality notice
-- **Executive Preface** with data verification charter
-- **4-Chapter Core Analysis** with high-density institutional prose
-- **Grand Source Ledger Appendix** with clickable citation URLs
-- **Page Numbering & Running Headers** via two-pass canvas rendering
-
-### 🎭 Commercial Council Verdict
-After publication, 4 parallel advisor personas independently evaluate the report:
-- 🛑 **The Contrarian** — "Why demand a refund?"
-- 🔍 **The First Principles Thinker** — "Does this solve real problems?"
-- 🚀 **The Expansionist** — "What's the hidden upside?"
-- 🎯 **The Executor** — "Write the 3-sentence sales pitch"
-
-Finally, **Chairman's Verdict** synthesizes all opinions and delivers a **PUBLISH / REVISE / SCRAP** decision with Gumroad monetization angle.
-
----
-
-## 🏛️ Architecture at a Glance
-
+```text
+       ┌──────────────┐
+       │   Z  E  U  S  S   │
+       │  ┌───┐  ┌───┐  │
+       │  │▣▣│  │▣▣│  │
+       │  └───┘  └───┘  │
+       └──────────────┘
 ```
-┌─────────────────────────────────────────────────────────────────┐
-│                     USER TOPIC INPUT                             │
-│                 (e.g., "AI Supply Chain 2026")                  │
-└──────────────────────────┬──────────────────────────────────────┘
-                           │
-           ┌───────────────┼───────────────┐
-           │               │               │
-      ┌────▼──┐       ┌────▼──┐      ┌────▼──┐
-      │ CH 1  │       │ CH 2  │      │ CH 3  │      ┌─────────┐
-      │Market │       │Capital│      │ Risk  │      │ CH 4    │
-      │Drivers│       │Shifts │      │Reg'ry │      │Ledger   │
-      └────┬──┘       └────┬──┘      └────┬──┘      └────┬────┘
-           │               │               │              │
-           └───────────────┼───────────────┴──────────────┘
-                           │
-           ┌───────────────┴───────────────┐
-           │                               │
-      ┌────▼────────────────────────────┐ │
-      │   NODE A: GROUNDED SEARCH       │ │
-      │   (Cohere / Exa.ai / OpenRouter)│ │
-      └────┬─────────────────────────────┘ │
-           │                               │
-      ┌────▼─────────────────────────────┐ │
-      │  NODE B: DEEP SYNTHESIS          │ │
-      │  (Llama 3.3 / Qwen Rotation)     │ │
-      └────┬──────────────────────────────┘ │
-           │                               │
-      ┌────▼──────────────────────────────┐│
-      │  NODE C: QA AUDITOR               ││
-      │  (DeepSeek-R1 Adversarial Gate)   ││
-      └────┬───────────────────────────────┘│
-           │                                │
-      APPROVED?  ──NO──> REWRITE LOOP      │
-           │YES                            │
-           │◄───────────────────────────────┘
-           │
-      ┌────▼────────────────────────────┐
-      │  NODE D: INSTITUTIONAL PUBLISHER │
-      │  (PDF Compilation + Ledger)      │
-      └────┬─────────────────────────────┘
-           │
-      ┌────▼──────────────────────────────┐
-      │  NODE E: COMMERCIAL COUNCIL       │
-      │  (4 Advisors + Chairman Verdict)  │
-      └────┬───────────────────────────────┘
-           │
-      ┌────▼─────────────────────────────┐
-      │  🎯 FINAL DOSSIER + STRATEGY     │
-      └──────────────────────────────────┘
+
+### Brand Positioning
+
+- **ZEUSS** = research operating system
+- **Core promise** = grounded intelligence over noise
+- **Target users** = operators, strategists, investors, analysts, founders
+- **Tone** = premium, confident, institutional, disciplined
+
+### Banner Section
+
+```text
+╔══════════════════════════════════════════════════════════════════════════╗
+║  ZEUSS                                                               ║
+║  AUTONOMOUS B2B INTELLIGENCE ENGINE                                 ║
+║  VERIFIED RESEARCH • SOURCE-GROUNDED • REPORT READY                  ║
+╚══════════════════════════════════════════════════════════════════════════╝
 ```
 
 ---
 
-## ⚙️ Waterfall Failover System
+## What ZEUSS does
 
-**On Provider Failure (429/503/Timeout):**
+ZEUSS is intentionally built like an intelligence pipeline rather than a generic chatbot.
 
-1. 🔴 **Checkpoint** → Current accumulated text saved to `/research_cache/checkpoint_*.json`
-2. 🔄 **Rotate** → Automatically shift to next provider in tier
-3. 📝 **Inject** → Prompt includes resumption instruction to continue seamlessly
-4. ✅ **Concatenate** → New output appended directly to checkpoint
-5. 📊 **Log** → Failover event streamed to live Failover Log Panel
+It does the following:
 
-```
-Tier A (Search):
-  Primary  → OpenRouter (nvidia/nemotron-3.5-lightning:free)
-  Failover → OpenRouter (cohere/north-mini-code:free)
+- searches for grounded facts from authoritative domains
+- synthesizes those facts into chapter-based analysis
+- audits the draft against the original evidence set
+- compiles the approved report into a polished institutional PDF
+- delivers a final business verdict through a commercial council
 
-Tier B (Synthesis):
-  Primary  → OpenRouter (nvidia/nemotron-3-ultra-550b:free)
-  Failover1→ OpenRouter (nvidia/nemotron-3-super-120b:free)
-  Failover2→ OpenRouter (qwen/qwen3.8-27b:free)
+This keeps the system focused on evidence, structure, and publishability.
 
-Tier C (Reasoning):
-  Primary  → OpenRouter (nvidia/nemotron-3-nano-omni-30b:free)
-  Failover1→ OpenRouter (qwen/qwen3.8-27b:free)
-  Failover2→ OpenRouter (openrouter/free)
+---
+
+## Premium Feature Set
+
+### 1. Grounded Source Discipline
+
+- Hide open-web noise behind curated domain filters
+- Prioritize .gov, McKinsey, Bloomberg, and institutionally trusted sources
+- Keep output grounded instead of speculative
+
+### 2. Multi-Stage Execution Engine
+
+- Search stage
+- Synthesis stage
+- QA stage
+- Publishing stage
+- Commercial review stage
+
+### 3. Resilient Failover
+
+- Automatic provider rotation
+- Checkpoint-based continuation
+- Resume after rate limits or temporary service interruptions
+
+### 4. Institutional PDF Output
+
+- Formal cover page
+- Executive preface
+- Audit badges
+- Chapter headers
+- Source ledger appendix
+- Page numbering and clean document flow
+
+### 5. Commercial Council
+
+- Contrarian perspective
+- First-principles thinker
+- Expansionist viewpoint
+- Executor-focused sales framing
+- Final chairman verdict
+
+---
+
+## Repository Layout
+
+```text
+ZEUSS/
+├── main.py
+├── llm_router.py
+├── orchestrator.py
+├── pdf_generator.py
+├── mcp.json
+├── requirements.txt
+├── README.md
+├── docs/
+│   ├── ARCHITECTURE.md
+│   ├── API_REFERENCE.md
+│   ├── SETUP_GUIDE.md
+│   ├── LICENSE.md
+│   ├── LEGAL_NOTICE.md
+│   └── README.md
+├── research_cache/
+├── final_reports/
+├── logs/
+└── skills/
 ```
 
 ---
 
-## 🚀 Quick Start
+## Quick Start
 
-### 1. Install
+### Install
 
 ```bash
-git clone https://github.com/Artsy-i/Zuess.git && cd Zuess
-python -m venv .venv && source .venv/bin/activate
+git clone https://github.com/Artsy-i/Zuess.git
+cd Zuess
+python -m venv .venv
+source .venv/bin/activate
 pip install -r requirements.txt
 ```
 
-### 2. Configure
+### Configure your environment
 
 ```bash
 cat > .env << EOF
@@ -174,142 +173,98 @@ EXA_API_KEY=your_key_here
 EOF
 ```
 
-### 3. Run
+### Run the pipeline
 
 ```bash
-# Standard execution
 python main.py --topic "AI Supply Chain 2026"
+```
 
-# Resume from checkpoint
+Optional modes:
+
+```bash
 python main.py --topic "AI Supply Chain 2026" --resume
-
-# Auto-approve (unattended)
 python main.py --topic "AI Supply Chain 2026" --auto-approve
 ```
 
-### 4. Outputs
+---
 
-```
-✅ final_reports/
-   └─ ai_supply_chain_2026_institutional_dossier_YYYYMMDD_HHMMSS.pdf
+## Documentation Index
 
-📊 research_cache/
-   ├─ chapter_1_state.json
-   ├─ chapter_2_state.json
-   ├─ chapter_3_state.json
-   ├─ chapter_4_state.json
-   └─ commercial_council_state.json
-
-📋 logs/
-   ├─ qa_audit_ch1_*.json
-   ├─ qa_audit_ch2_*.json
-   ├─ qa_audit_ch3_*.json
-   └─ commercial_council_*.json
-```
+- [docs/README.md](docs/README.md)
+- [docs/ARCHITECTURE.md](docs/ARCHITECTURE.md)
+- [docs/API_REFERENCE.md](docs/API_REFERENCE.md)
+- [docs/SETUP_GUIDE.md](docs/SETUP_GUIDE.md)
+- [docs/LICENSE.md](docs/LICENSE.md)
+- [docs/LEGAL_NOTICE.md](docs/LEGAL_NOTICE.md)
 
 ---
 
-## 📚 Documentation
+## Legal / Protection
 
-Complete documentation is organized in the `/docs` folder:
+This project is proprietary and protected under intellectual property law.
 
-| Document | Purpose |
-|----------|----------|
-| [**ARCHITECTURE.md**](docs/ARCHITECTURE.md) | System design, data flows, state machine |
-| [**API_REFERENCE.md**](docs/API_REFERENCE.md) | Module exports, class methods, signatures |
-| [**SETUP_GUIDE.md**](docs/SETUP_GUIDE.md) | Installation, environment, troubleshooting |
-| [**LICENSE.md**](docs/LICENSE.md) | Software licensing terms |
-| [**LEGAL_NOTICE.md**](docs/LEGAL_NOTICE.md) | Copyright & IP protection notice |
+- [docs/LICENSE.md](docs/LICENSE.md)
+- [docs/LEGAL_NOTICE.md](docs/LEGAL_NOTICE.md)
+
+All code, research workflows, generated outputs, and branding materials are treated as protected project assets.
 
 ---
 
-## 🔐 Legal & Intellectual Property
+## Why this project stands out
 
-**© 2026 Artsy-i. All rights reserved.**
+ZEUSS is not just a script that writes content. It is built as a structured operating layer for evidence-backed market intelligence.
 
-This project is **proprietary software**. Unauthorized reproduction, distribution, modification, or commercial use is strictly prohibited. See [LICENSE.md](docs/LICENSE.md) and [LEGAL_NOTICE.md](docs/LEGAL_NOTICE.md) for complete terms.
+It is designed for:
 
----
-
-## 📊 Use Cases
-
-### Supply Chain Intelligence
-```bash
-python main.py --topic "Semiconductor Supply Chain Resilience 2026"
-```
-→ Capital flows, geopolitical risks, manufacturing bottlenecks, vendor dependencies
-
-### Enterprise AI Adoption
-```bash
-python main.py --topic "Generative AI Deployment in Financial Services"
-```
-→ Market drivers, regulatory exposure, competitive positioning, integration risks
-
-### Infrastructure Investment
-```bash
-python main.py --topic "EV Charging Network Expansion 2026-2028"
-```
-→ Capex allocations, site selection, compliance hurdles, competitive dynamics
+- institutional research use
+- strategic planning workflows
+- complex topic analysis
+- publishable dossier generation
+- enterprise-grade review loops
 
 ---
 
-## 🎯 Core Principles
+## Status
 
-| Principle | Implementation |
-|-----------|----------------|
-| **Grounding Over Speculation** | Whitelisted sources only (.gov, McKinsey, Bloomberg) |
-| **Evidence Discipline** | Missing data explicitly marked "Data Unavailable" |
-| **Deterministic Progression** | State machine ensures strict stage progression |
-| **Resilient Operation** | Waterfall failover with checkpoint handoff |
-| **Transparency** | 100% citation enforcement with footnote URLs |
-| **Institutional Grade** | Formal PDF dossiers with executive preface & ledger |
-
----
-
-## 🌟 Technical Stack
-
-| Component | Technology |
-|-----------|------------|
-| **Language** | Python 3.10+ |
-| **LLM Integration** | OpenAI SDK (multi-provider via OpenRouter) |
-| **Search** | Exa.ai API |
-| **PDF Generation** | ReportLab |
-| **Terminal UI** | Rich |
-| **Async/Concurrency** | concurrent.futures |
-| **Configuration** | python-dotenv |
-
----
-
-## 📞 Support & Feedback
-
-- 🐛 **Report Issues**: [GitHub Issues](https://github.com/Artsy-i/Zuess/issues)
-- 📖 **Read Docs**: [/docs](docs/)
-- 📧 **Contact**: @Artsy-i on GitHub
-
----
-
-## 🚀 Roadmap
-
-- [ ] Web dashboard (Streamlit/FastAPI)
-- [ ] Multi-language report generation
-- [ ] Real-time data feed integrations
-- [ ] Custom sector taxonomies
-- [ ] Enterprise deployment templates
-- [ ] Report distribution & archival
+Current status: active proprietary research engine with documentation, legal notice, and structured runtime flow.
 
 ---
 
 <div align="center">
   <br>
-  <strong>⚡ Built with institutional rigor. Powered by AI orchestration. ⚡</strong>
-  <br><br>
-  <img src="https://img.shields.io/badge/Made%20with-Python-blue?style=flat-square" alt="Made with Python" />
-  <img src="https://img.shields.io/badge/Enterprise-Grade-green?style=flat-square" alt="Enterprise Grade" />
-  <img src="https://img.shields.io/badge/100%25-Grounded-brightgreen?style=flat-square" alt="100% Grounded" />
-  <br><br>
-  <code>© 2026 Artsy-i • Proprietary Intelligence Research System</code>
+  <strong>ZEUSS</strong>
   <br>
-  <a href="https://github.com/Artsy-i/Zuess">Repository</a> •
-  <a href="docs/">Documentation</a> •
-  <a href="docs/LICENSE.md">License</a>
+  <em>Research OS for grounded business intelligence</em>
+  <br><br>
+  <code>© 2026 Artsy-i • Proprietary System</code>
 </div>
+
+```
+
+{"path":"docs/README.md","content":"# ZEUSS Documentation
+
+## Documentation Hub
+
+This folder contains the system documentation for the ZEUSS project.
+
+## Index
+
+- [ARCHITECTURE.md](ARCHITECTURE.md) — system design, execution flow, state model
+- [API_REFERENCE.md](API_REFERENCE.md) — runtime interfaces and module responsibilities
+- [SETUP_GUIDE.md](SETUP_GUIDE.md) — installation, environment setup, troubleshooting
+- [LICENSE.md](LICENSE.md) — license terms for the repository
+- [LEGAL_NOTICE.md](LEGAL_NOTICE.md) — copyright and IP usage notice
+
+## Project Identity
+
+ZEUSS is a proprietary intelligence engine for grounded, institutional-grade research and report generation.
+
+## Quick links
+
+- [Root README](../README.md)
+- [Repository Home](https://github.com/Artsy-i/Zuess)
+
+---
+
+© 2026 Artsy-i. All rights reserved.
+"}]}  render false  ,
