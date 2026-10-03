@@ -1,16 +1,18 @@
 ```
-                        ████████████████████████████████████████████████████████████████████████████████
-                        █                                                                              █
-                        █                                    Z E U S S                                 █
-                        █                                                                              █
-                        █                  AUTONOMOUS B2B INTELLIGENCE ENGINE                          █
-                        █                                                                              █
-                        █              🔍 Research  •  🧠 Synthesis  •  ✅ QA  •  📄 Publish         █
-                        █                                                                              █
-                        █                 Enterprise-Grade Intelligence Pipeline                       █
-                        █                   Grounded • Verified • Publication-Ready                    █
-                        █                                                                              █
-                        ████████████████████████████████████████████████████████████████████████████████
+╔════════════════════════════════════════════════════════════════════════════════╗
+║                                                                                ║
+║                         ███████╗███████╗██╗   ██╗███████╗███████╗             ║
+║                         ╚════██║██╔════╝██║   ██║██╔════╝██╔════╝             ║
+║                             ██║█████╗  ██║   ██║███████╗███████╗             ║
+║                             ██║██╔══╝  ██║   ██║╚════██║╚════██║             ║
+║                         ███████║███████╗╚██████╔╝███████║███████║             ║
+║                         ╚══════╝╚══════╝ ╚═════╝ ╚══════╝╚══════╝             ║
+║                                                                                ║
+║                    AUTONOMOUS B2B INTELLIGENCE ENGINE                         ║
+║                  Enterprise Research OS • Grounded Analysis                    ║
+║                     100% Citation Enforcement • PDF Ready                      ║
+║                                                                                ║
+╚════════════════════════════════════════════════════════════════════════════════╝
 ```
 
 <div align="center">
@@ -130,40 +132,40 @@ Finally: **Chairman's Verdict** (PUBLISH / REVISE / SCRAP) with Gumroad monetiza
                             USER TOPIC INPUT
                       (e.g., "AI Supply Chain 2026")
                                    ↓
-                    ┌──────────────────────────────┐
-                    │  CHAPTER PROCESSING (Loop)   │
-                    │                              │
-                    │  Ch 1: Market Drivers        │
-                    │  Ch 2: Capital & Infrastructure
-                    │  Ch 3: Risk & Regulatory     │
-                    │  Ch 4: Source Ledger         │
-                    └──────────────┬───────────────┘
-                                   ↓
-                        ┌──────────────────────┐
-                        │  NODE A: SEARCHER    │
-                        │  (Cohere / Exa.ai)   │
-                        └──────────┬───────────┘
-                                   ↓
-                        ┌──────────────────────┐
-                        │  NODE B: SYNTHESIZER │
-                        │  (Llama / Qwen)      │
-                        └──────────┬───────────┘
-                                   ↓
-                        ┌──────────────────────┐
-                        │  NODE C: QA AUDITOR  │
-                        │  (DeepSeek-R1)       │
-                        └──────────┬───────────┘
-                                   ↓
-                        ┌──────────────────────┐
-                        │  NODE D: PUBLISHER   │
-                        │  (PDF Compilation)   │
-                        └──────────┬───────────┘
-                                   ↓
-                        ┌──────────────────────┐
-                        │  NODE E: COUNCIL     │
-                        │  (Commercial Verdict)│
-                        └──────────┬───────────┘
-                                   ↓
+                    ┌──────────────────────────────────────┐
+                    │  CHAPTER PROCESSING (Loop)           │
+                    │                                      │
+                    │  Ch 1: Market Drivers                │
+                    │  Ch 2: Capital & Infrastructure      │
+                    │  Ch 3: Risk & Regulatory             │
+                    │  Ch 4: Source Ledger                 │
+                    └──────────────────┬───────────────────┘
+                                       ↓
+                        ┌────────────────────────────────┐
+                        │  NODE A: SEARCHER              │
+                        │  (Cohere / Exa.ai)             │
+                        └────────────────┬────────────────┘
+                                         ↓
+                        ┌────────────────────────────────┐
+                        │  NODE B: SYNTHESIZER           │
+                        │  (Llama / Qwen)                │
+                        └────────────────┬────────────────┘
+                                         ↓
+                        ┌────────────────────────────────┐
+                        │  NODE C: QA AUDITOR            │
+                        │  (DeepSeek-R1)                 │
+                        └────────────────┬────────────────┘
+                                         ↓
+                        ┌────────────────────────────────┐
+                        │  NODE D: PUBLISHER             │
+                        │  (PDF Compilation)             │
+                        └────────────────┬────────────────┘
+                                         ↓
+                        ┌────────────────────────────────┐
+                        │  NODE E: COUNCIL               │
+                        │  (Commercial Verdict)          │
+                        └────────────────┬────────────────┘
+                                         ↓
                          📄 FINAL DOSSIER
 ```
 
