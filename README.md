@@ -1,16 +1,16 @@
 ```
-                                                         ████████████████████████████████████████████████████████████████████████████████
-                                                         █                                                                              █
-                                                         █                                    Z E U S S                                 █
-                                                         █                                                                              █
-                                                         █                  AUTONOMOUS B2B INTELLIGENCE ENGINE                          █
-                                                         █                                                                              █
-                                                         █              🔍 Research  •  🧠 Synthesis  •  ✅ QA  •  📄 Publish         █
-                                                         █                                                                              █
-                                                         █                 Enterprise-Grade Intelligence Pipeline                       █
-                                                         █                   Grounded • Verified • Publication-Ready                    █
-                                                         █                                                                              █
-                                                         ████████████████████████████████████████████████████████████████████████████████
+                        ████████████████████████████████████████████████████████████████████████████████
+                        █                                                                              █
+                        █                                    Z E U S S                                 █
+                        █                                                                              █
+                        █                  AUTONOMOUS B2B INTELLIGENCE ENGINE                          █
+                        █                                                                              █
+                        █              🔍 Research  •  🧠 Synthesis  •  ✅ QA  •  📄 Publish         █
+                        █                                                                              █
+                        █                 Enterprise-Grade Intelligence Pipeline                       █
+                        █                   Grounded • Verified • Publication-Ready                    █
+                        █                                                                              █
+                        ████████████████████████████████████████████████████████████████████████████████
 ```
 
 <div align="center">
